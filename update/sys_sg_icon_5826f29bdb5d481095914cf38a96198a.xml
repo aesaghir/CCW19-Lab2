@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e94e","FontColor":"#293e40","BackgroundColor":"#293e40","Name":"icon-Chip"}</icon>
+        <name>icon-Chip</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>ahmadelsaghir</sys_created_by>
+        <sys_created_on>2019-11-29 05:52:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5826f29bdb5d481095914cf38a96198a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Chip</sys_name>
+        <sys_package display_value="Test UAT" source="x_assl_test_uat">d5e5769bdb5d481095914cf38a96192d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test UAT">d5e5769bdb5d481095914cf38a96192d</sys_scope>
+        <sys_update_name>sys_sg_icon_5826f29bdb5d481095914cf38a96198a</sys_update_name>
+        <sys_updated_by>ahmadelsaghir</sys_updated_by>
+        <sys_updated_on>2019-11-29 05:52:56</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

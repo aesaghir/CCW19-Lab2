@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description> Security Log</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Chip">5826f29bdb5d481095914cf38a96198a</icon>
+        <item_view/>
+        <name>Security Logs</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <style>regular</style>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>ahmadelsaghir</sys_created_by>
+        <sys_created_on>2019-11-29 05:52:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6826f2dbdb5d481095914cf38a96195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Security Logs</sys_name>
+        <sys_package display_value="Test UAT" source="x_assl_test_uat">d5e5769bdb5d481095914cf38a96192d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test UAT">d5e5769bdb5d481095914cf38a96192d</sys_scope>
+        <sys_update_name>sys_sg_list_screen_6826f2dbdb5d481095914cf38a96195d</sys_update_name>
+        <sys_updated_by>ahmadelsaghir</sys_updated_by>
+        <sys_updated_on>2019-11-29 05:52:57</sys_updated_on>
+    </sys_sg_list_screen>
+</record_update>

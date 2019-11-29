@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>u_security_officer_involved</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>140</order>
+        <record_id_field/>
+        <screen display_value="Details">2c26f2dbdb5d481095914cf38a96195f</screen>
+        <screen_data_item_table>u_security_log</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>ahmadelsaghir</sys_created_by>
+        <sys_created_on>2019-11-29 05:52:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6026f2dbdb5d481095914cf38a96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_security_officer_involved</sys_name>
+        <sys_package display_value="Test UAT" source="x_assl_test_uat">d5e5769bdb5d481095914cf38a96192d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test UAT">d5e5769bdb5d481095914cf38a96192d</sys_scope>
+        <sys_update_name>sys_sg_screen_field_6026f2dbdb5d481095914cf38a96199a</sys_update_name>
+        <sys_updated_by>ahmadelsaghir</sys_updated_by>
+        <sys_updated_on>2019-11-29 05:52:57</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>
